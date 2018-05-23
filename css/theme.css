@@ -51,7 +51,6 @@ li a:hover:not(.active){
 	text-decoration:underline;
 }
 p{
-	text-transform:capitalize;
 	text-align:center; 
 	padding:10px 10px;
 	font-size:22px;
